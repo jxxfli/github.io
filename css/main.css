@@ -2998,6 +2998,9 @@ body {
     background-position:50% 50%;
 }
 .main-inner {
-  background: #0030333f;
-  opacity: 0.5;
+  margin-top: 60px;
+    padding: 60px 60px 60px 60px;
+    background: #0030333f;
+    opacity: 0.8;
+    min-height: 500px;
 }
