@@ -2992,12 +2992,12 @@ pre .javascript .function {
   }
 }
 body {
-    background:url(https://source.unsplash.com/random/1920x1080);
+   /* background:url(https://source.unsplash.com/random/1920x1080); */
     background-repeat: no-repeat;
-    background-attachment:scroll;
+    background-attachment:fixed;
     background-position:50% 50%;
 }
 .main-inner {
   background: #30333f;
-  opacity: 0.9;
+  opacity: 0.5;
 }
